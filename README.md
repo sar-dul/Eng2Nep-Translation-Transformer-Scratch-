@@ -20,7 +20,6 @@ This project includes the following steps:
 - Python 3.x
 - TensorFlow or PyTorch
 - Hugging Face Datasets
-- SentencePiece (for BPE Tokenizer)
 - NumPy
 - Matplotlib (for visualization)
 
